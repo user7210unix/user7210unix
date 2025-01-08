@@ -1,7 +1,11 @@
 <div align="center">
-  <a href="https://user7210unix.github.io/Showcase-website/" style="display: inline-block; padding: 20px 40px; background-color: #FF6347; color: white; font-size: 24px; font-weight: bold; text-align: center; text-decoration: none; border-radius: 50px; box-shadow: 0 8px 12px rgba(0, 0, 0, 0.3); transition: all 0.3s ease; text-transform: uppercase;">
-    Visit My Personal Website 👀
-  </a>
+  <h2 style="font-size: 54px;">
+    <strong> 
+      <a href="https://user7210unix.github.io/Showcase-website/" style="text-decoration: none; color: inherit;">
+        Personal Website 👀
+      </a> 
+    </strong>
+  </h2>
 </div>
 
 
