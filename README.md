@@ -1,12 +1,9 @@
 <div align="center">
-  <h2 style="font-size: 44px;">
-    <strong> 
-      <a href="https://user7210unix.github.io/Showcase-website/" style="text-decoration: none; color: inherit;">
-        Personal Website 👀
-      </a> 
-    </strong>
-  </h2>
+  <a href="https://user7210unix.github.io/Showcase-website/" style="display: inline-block; padding: 12px 24px; background-color: #4CAF50; color: white; text-align: center; text-decoration: none; border-radius: 8px; font-size: 16px; transition: background-color 0.3s ease;">
+    Personal Website 👀
+  </a>
 </div>
+
 
 
 <div align="center">
