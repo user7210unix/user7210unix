@@ -1,9 +1,5 @@
 <div align="center">
-  <h1>☄️ <strong>𝗨𝗦𝗘𝗥𝟳𝟮𝟭𝟬𝗨𝗡𝗜𝗫' 𝗚𝗜𝗧𝗛𝗨𝗕</strong> ☄️</h1>
-</div>
-
-<div align="center">
-  <h2 style="font-size: 24px;">
+  <h2 style="font-size: 44px;">
     <strong> 
       <a href="https://user7210unix.github.io/Showcase-website/" style="text-decoration: none; color: inherit;">
         Personal Website 👀
