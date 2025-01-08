@@ -1,62 +1,41 @@
-# Welcome to My GitHub Profile!
+<div align="center">
+  <h1>☄️ <strong>𝗨𝗦𝗘𝗥𝟳𝟮𝟭𝟬𝗨𝗡𝗜𝗫' 𝗚𝗜𝗧𝗛𝗨𝗕</strong> ☄️</h1>
+</div>
 
 <div align="center">
-  <h2>Hi, I'm user7210unix 👋</h2>
-  <p>I'm a passionate programmer and Linux enthusiast. I love working with:</p>
-  <ul>
-    <li>Html, C, Shell scripting</li>
-    <li>Linux (Gentoo, Arch, etc.)</li>
-    <li>Open-source projects</li>
-  </ul>
-
-  <p>Visit my personal website:</p>
-  <a href="https://user7210unix.github.io/Showcase-website/" target="_blank">
-    <img src="https://user7210unix.github.io/Showcase-website/favicon.ico" alt="Website Favicon" width="24" height="24" />
-    <strong>Visit my Personal Website</strong>
-  </a>
-
-  <style>
-    /* Center the content */
-    .content-center {
-      text-align: center;
-      margin-top: 20px;
-    }
-
-    /* Customize the stats boxes */
-    .stats-box {
-      display: inline-block;
-      margin: 10px;
-      border-radius: 12px;
-      padding: 20px;
-      background-color: rgba(255, 255, 255, 0.1);
-    }
-
-    /* Add some hover effects for the link */
-    a {
-      color: #5c6bc0;
-      text-decoration: none;
-      font-size: 18px;
-    }
-
-    a:hover {
-      color: #3949ab;
-    }
-
-    img {
-      border-radius: 8px;
-      margin-bottom: 10px;
-    }
-  </style>
-
-  <div class="content-center">
-    <!-- GitHub Stats Section -->
-    <div class="stats-box">
-      <img src="https://github-readme-stats.vercel.app/api?username=user7210unix&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=transparent" alt="GitHub Stats"/>
-    </div>
-
-    <!-- Top Languages Section -->
-    <div class="stats-box">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=user7210unix&layout=compact" alt="Top Languages"/>
-    </div>
-  </div>
+  <h2 style="font-size: 24px;">
+    <strong> <a href="https://user7210unix.github.io/Showcase-website/" style="text-decoration: none; color: inherit;">
+      <img src="https://user7210unix.github.io/Showcase-website/favicon.ico" alt="Website Favicon" style="vertical-align: middle; width: 24px; height: 24px; margin-right: 8px;">
+      My Personal Website</a> 
+    </strong>
+  </h2>
 </div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=user7210unix&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=transparent" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=user7210unix&layout=compact" alt="Top Languages"/>
+</div>
+
+## ⚙️ Features & Tools
+
+- **Operating System** :penguin: [Gentoo Linux](https://www.gentoo.org/) – A highly customizable and performance-focused Linux distribution.  
+- **Linux From Scratch (LFS)** :books: Building Linux from the ground up to create a minimalist and optimized system.  
+- **Shell** :shell: [Fish](https://fishshell.com/) – A user-friendly and powerful shell designed for interactive use.  
+- **Editor** :pencil: [Vim](https://www.vim.org/) – A lightweight and highly customizable text editor for programmers.
+- **Window Manager** :desktop_computer: [DWM](https://dwm.suckless.org/) – A dynamic tiling window manager known for simplicity and efficiency.
+- **Alternative Window Manager** :computer: [i3](https://i3wm.org/) – A tiling window manager for X11 designed for developers and advanced users.
+  
+### :octocat: **Languages I Code With**:
+- **HTML** 🌐 – For structuring web pages and building user interfaces.
+- **CSS** 🎨 – Styling and designing beautiful, responsive layouts for websites.
+- **Bash** 🖥️ – For shell scripting and automation tasks.
+- **C** 🔧 – Used for system-level programming and performance-critical applications.
+
+### ⚡️ **Tech Enthusiast**:
+- A passionate **Gentoo Linux** user and advocate.
+- Linux From Scratch (LFS) enthusiast who loves building custom systems from scratch.
+- Strong preference for **lightweight and minimalistic setups**, with **DWM** and **i3** as my window managers of choice.
+
+
+
+### :octocat: Thanks for visiting my GitHub profile!
