@@ -34,12 +34,4 @@
 - **C** 🔧 – Used for system-level programming and performance-critical applications.
 <div align="center">
 
-### ⚡️ **Tech Enthusiast**:
-- A passionate **Gentoo Linux** user and advocate.
-- Linux From Scratch (LFS) enthusiast who loves building custom systems from scratch.
-- Strong preference for **lightweight and minimalistic setups**, with **DWM** and **i3** as my window managers of choice.
-
-<div align="center">
-
-
 ### :octocat: Thanks for visiting my GitHub profile!
