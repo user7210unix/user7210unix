@@ -5,8 +5,6 @@
 <div align="center">
   <h2 style="font-size: 24px;">
     <strong> <a href="https://user7210unix.github.io/Showcase-website/" style="text-decoration: none; color: inherit;">
-      <img src="https://user7210unix.github.io/Showcase-website/favicon.ico" alt="Website Favicon" style="vertical-align: middle; width: 24px; height: 24px; margin-right: 8px;">
-      My Personal Website</a> 
     </strong>
   </h2>
 </div>
