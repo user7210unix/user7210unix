@@ -1,5 +1,5 @@
 <div align="center">
-  <h2 style="font-size: 54px;">
+  <h2 style="font-size: 74px;">
     <strong> 
       <a href="https://user7210unix.github.io/Showcase-website/" style="text-decoration: none; color: inherit;">
         Personal Website 👀
