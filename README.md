@@ -20,7 +20,7 @@
 <div align="center">
 
 - **Operating System** :penguin: [Gentoo Linux](https://www.gentoo.org/) – A highly customizable and performance-focused Linux distribution.  
-- **Linux From Scratch** :books: [LFS](https://www.linuxfromscratch.org/)** Building Linux from the ground up to create a minimalist and optimized system.  
+- **Linux From Scratch** :books: [LFS](https://www.linuxfromscratch.org/) Building Linux from the ground up to create a minimalist and optimized system.  
 - **Shell** :shell: [Fish](https://fishshell.com/) – A user-friendly and powerful shell designed for interactive use.  
 - **Editor** :pencil: [Vim](https://www.vim.org/) – A lightweight and highly customizable text editor for programmers.
 - **Window Manager** :desktop_computer: [DWM](https://dwm.suckless.org/) – A dynamic tiling window manager known for simplicity and efficiency.
