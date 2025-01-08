@@ -4,10 +4,14 @@
 
 <div align="center">
   <h2 style="font-size: 24px;">
-    <strong> <a href="https://user7210unix.github.io/Showcase-website/" style="text-decoration: none; color: inherit;">
+    <strong> 
+      <a href="https://user7210unix.github.io/Showcase-website/" style="text-decoration: none; color: inherit;">
+        Personal Website 👀
+      </a> 
     </strong>
   </h2>
 </div>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=user7210unix&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=transparent" alt="GitHub Stats"/>
