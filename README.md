@@ -12,7 +12,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=user7210unix&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=transparent" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=user7210unix&layout=compact" alt="Top Languages"/>
 </div>
 <div align="center">
 
