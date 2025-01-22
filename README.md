@@ -42,8 +42,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/user7210unix/MrAlpha786/refs/heads/main/img/more_things.png
-">
+<img src="https://raw.githubusercontent.com/user7210unix/MrAlpha786/refs/heads/main/img/more_things.png">
 
 <div align="center">
 
