@@ -5,7 +5,7 @@
 
 <div align="center">
 
-## ⚙️ Features & Tools
+## ⚙️ What i am using
 <div align="center">
 
 - **Operating System** :penguin: [Gentoo Linux](https://www.gentoo.org/) – A highly customizable and performance-focused Linux distribution.  
