@@ -51,3 +51,4 @@
 - **CSS** 🎨 – Styling and designing beautiful, responsive layouts for websites.
 - **Bash** 🖥️ – For shell scripting and automation tasks.
 - **C** 🔧 – Used for system-level programming and performance-critical applications.
+- **JS** 🛠 - lightweight interpreted (or just-in-time compiled) programming language with first-class functions. 
