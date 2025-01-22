@@ -31,6 +31,3 @@
 - **CSS** 🎨 – Styling and designing beautiful, responsive layouts for websites.
 - **Bash** 🖥️ – For shell scripting and automation tasks.
 - **C** 🔧 – Used for system-level programming and performance-critical applications.
-<div align="center">
-
-### :octocat: Thanks for visiting my GitHub profile!
