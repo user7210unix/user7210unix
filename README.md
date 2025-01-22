@@ -13,7 +13,7 @@
 <!--Statistics: start-->
 <div align="center">
 
-<img src="img/statistics.png">
+<img src="https://raw.githubusercontent.com/user7210unix/MrAlpha786/refs/heads/main/img/statistics.png">
 
 <div align="center">
 
