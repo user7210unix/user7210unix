@@ -36,17 +36,3 @@
   <img alt="Faizan's GitHub stats" width="406" src="https://github-readme-stats.vercel.app/api?username=mralpha786&custom_title=Github+Stats&bg_color=00000000&hide_border=true&show_icons=true&text_color=667799&title_color=388286&icon_color=388286">
   <div align="center">
 
-<!--Statistics: end-->
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/user7210unix/MrAlpha786/refs/heads/main/img/more_things.png">
-
-<div align="center">
-
-### :octocat: **Languages I Code With**:
-- **HTML** 🌐 – For structuring web pages and building user interfaces.
-- **CSS** 🎨 – Styling and designing beautiful, responsive layouts for websites.
-- **Bash** 🖥️ – For shell scripting and automation tasks.
-- **C** 🔧 – Used for system-level programming and performance-critical applications.
-- **JS** 🛠 - lightweight interpreted (or just-in-time compiled) programming language with first-class functions. 
