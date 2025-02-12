@@ -35,9 +35,3 @@
 
   <img alt="GitHub stats" width="406" src="https://github-readme-stats.vercel.app/api?username=user7210unix&custom_title=Github+Stats&bg_color=00000000&hide_border=true&show_icons=true&text_color=667799&title_color=388286&icon_color=388286">
   <div align="center">
-
-<div align="center">
-    <a href="https://user7210unix.github.io/Showcase-website" target="_blank" title="GitHub metrics!">
-        <img width="500" src="https://raw.githubusercontent.com/user7210unix/user7210unix/master/assets/gen/metrics.svg" />
-    </a>
-</div>
