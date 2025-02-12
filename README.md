@@ -1,3 +1,13 @@
+<div align="center">
+  <h2 style="font-size: 74px;">
+    <strong> 
+      <a href="https://user7210unix.github.io/Showcase-website/" style="text-decoration: none; color: inherit;">
+        👉 𝗠𝗬 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 👈
+      </a> 
+    </strong>
+  </h2>
+</div>
+
 <!--About me: start-->
 <div align="center">
 
@@ -15,17 +25,7 @@
 - **Window Manager** :desktop_computer: [DWM](https://dwm.suckless.org/) – A dynamic tiling window manager known for simplicity and efficiency.
 - **Alternative Window Manager** :computer: [i3](https://i3wm.org/) – A tiling window manager for X11 designed for developers and advanced users.
   <div align="center">
-
-<div align="center">
-  <h2 style="font-size: 74px;">
-    <strong> 
-      <a href="https://user7210unix.github.io/Showcase-website/" style="text-decoration: none; color: inherit;">
-        👉 𝗠𝗬 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 👈
-      </a> 
-    </strong>
-  </h2>
-</div>
-
+  
 <!--Statistics: start-->
 <div align="center">
 
