@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="pfp.png" width="150" height="150" style="border-radius:50%">
+  <img src="pfp.png" width="180" height="180" style="border-radius:50%">
   <h1>user7210unix</h1>
   <p>
     <strong>Lead Developer</strong> by 
