@@ -9,6 +9,8 @@
 </div>
 
 - 🔭 I’m currently working on [LXPKG](https://github.com/LearnixOS/lxpkg)
+- 🔭 I’m currently working on [LXOS](https://github.com/LearnixOS/LearnixOS)
+
 
 <p align="left">
 </p>
