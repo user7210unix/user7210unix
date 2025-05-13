@@ -16,7 +16,7 @@
 
 ![user7210unix's Stats](https://github-readme-stats.vercel.app/api?username=user7210unix&theme=vue&show_icons=true&hide_border=false&count_private=false)
 
-![user7210unix's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=user7210unix&theme=vue&show_icons=true&hide_border=false&layout=compact)
+![user7210unix's Streak](https://github-readme-streak-stats.herokuapp.com/?user=user7210unix&theme=vue&hide_border=false)
 
 ![user7210unix's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=user7210unix&theme=vue&show_icons=true&hide_border=false&layout=compact)
 
