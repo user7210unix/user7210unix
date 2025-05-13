@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm user7210unix</h1>
 <h3 align="center">A passionate Linux developer/ Lead Developer of LearnixOS</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=user7210unix&label=Profile%20views&color=0e75b6&style=flat" alt="user7210unix" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=user7210unix" alt="user7210unix" /></a> </p>
 
 - 🔭 I’m currently working on [LXPKG](https://github.com/LearnixOS/lxpkg)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
@@ -18,3 +14,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=user7210unix&show_icons=true&locale=en" alt="user7210unix" /></p>
 
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=user7210unix" alt="user7210unix" /></a> </p>
