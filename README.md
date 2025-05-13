@@ -8,8 +8,7 @@
   </p>
 </div>
 
-- 🔭 I’m currently working on [LXPKG](https://github.com/LearnixOS/lxpkg)
-- 🔭 I’m currently working on [LXOS](https://github.com/LearnixOS/LearnixOS)
+- 🔭 I’m currently working on [LXOS](https://learnixos.github.io/)
 
 
 <p align="left">
