@@ -11,7 +11,7 @@
 <div align="center">
 
 
-- **🔭 I’m currently working on** [LXOS](https://learnixos.github.io/)
+- **🔭 I’m currently working on** [ LearnixOS](https://learnixos.github.io/)
 
 
 <div align="center">
