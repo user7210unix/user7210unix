@@ -1,6 +1,12 @@
-<h1 align="center">Hi 👋, I'm user7210unix</h1>
-<h3 align="center">A passionate Linux developer/ Lead Developer of LearnixOS</h3>
-
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/USER7210ID" width="150" height="150" style="border-radius:50%">
+  <h1>user7210unix</h1>
+  <p>
+    <strong>Lead Developer</strong> by 
+    <img src="https://raw.githubusercontent.com/LearnixOS/learnixos.github.io/main/assets/images/logo.png" width="20" height="20"> 
+    <strong>LearnixOS</strong>
+  </p>
+</div>
 
 - 🔭 I’m currently working on [LXPKG](https://github.com/LearnixOS/lxpkg)
 
