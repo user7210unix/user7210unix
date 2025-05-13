@@ -1,37 +1,23 @@
 <div align="center">
-  <h2 style="font-size: 74px;">
-    <strong> 
-      <a href="https://user7210unix.github.io/Showcase-website/" style="text-decoration: none; color: inherit;">
-        👉 𝗠𝗬 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 👈
-      </a> 
-    </strong>
-  </h2>
+  <img src="https://avatars.githubusercontent.com/u/184499117?v=4" width="150" height="150" style="border-radius:50%">
+  <h1>user7210unix</h1>
+  <p>
+    <strong>Lead Developer</strong> by 
+    <img src="https://raw.githubusercontent.com/LearnixOS/learnixos.github.io/main/assets/images/logo.png" width="20" height="20"> 
+    <strong>LearnixOS</strong>
+  </p>
 </div>
 
-<!--About me: start-->
-<div align="center">
 
-<img src="https://raw.githubusercontent.com/user7210unix/MrAlpha786/refs/heads/main/img/hi_there.png">
 
-<div align="center">
-
-## ⚙️ What i am using
-<div align="center">
-
-- **Operating System** :penguin: [Gentoo Linux](https://www.gentoo.org/) – A highly customizable and performance-focused Linux distribution.  
-- **Linux From Scratch** :books: [LFS](https://www.linuxfromscratch.org/) Building Linux from the ground up to create a minimalist and optimized system.  
-- **Shell** :shell: [Fish](https://fishshell.com/) – A user-friendly and powerful shell designed for interactive use.  
-- **Editor** :pencil: [Vim](https://www.vim.org/) – A lightweight and highly customizable text editor for programmers.
-- **Window Manager** :desktop_computer: [DWM](https://dwm.suckless.org/) – A dynamic tiling window manager known for simplicity and efficiency.
-- **Alternative Window Manager** :computer: [i3](https://i3wm.org/) – A tiling window manager for X11 designed for developers and advanced users.
-  <div align="center">
-  
-<!--Statistics: start-->
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/user7210unix/MrAlpha786/refs/heads/main/img/statistics.png">
+## 🌟 Featured Projects
 
 <div align="center">
 
-  <img alt="GitHub stats" width="406" src="https://github-readme-stats.vercel.app/api?username=user7210unix&custom_title=Github+Stats&bg_color=00000000&hide_border=true&show_icons=true&text_color=667799&title_color=388286&icon_color=388286">
-  <div align="center">
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LearnixOS&repo=LearnixOS-Core&theme=default)](https://github.com/LearnixOS/LearnixOS-Core)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LearnixOS&repo=Kernel-Toolkit&theme=default)](https://github.com/LearnixOS/Kernel-Toolkit)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LearnixOS&repo=SysOps-Manager&theme=default)](https://github.com/LearnixOS/SysOps-Manager)
+
+</div>
