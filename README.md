@@ -14,10 +14,10 @@
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LearnixOS&repo=LearnixOS-Core&theme=default)](https://github.com/LearnixOS/LearnixOS-Core)
+![user7210unix's Stats](https://github-readme-stats.vercel.app/api?username=user7210unix&theme=vue&show_icons=true&hide_border=false&count_private=false)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LearnixOS&repo=Kernel-Toolkit&theme=default)](https://github.com/LearnixOS/Kernel-Toolkit)
+![user7210unix's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=user7210unix&theme=vue&show_icons=true&hide_border=false&layout=compact)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LearnixOS&repo=SysOps-Manager&theme=default)](https://github.com/LearnixOS/SysOps-Manager)
+![user7210unix's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=user7210unix&theme=vue&show_icons=true&hide_border=false&layout=compact)
 
 </div>
