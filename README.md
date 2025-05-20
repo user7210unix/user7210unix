@@ -17,16 +17,4 @@
 <div align="center">
 
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=user7210unix&show_icons=true&locale=en&layout=compact" alt="user7210unix" /></p>
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=user7210unix&show_icons=true&locale=en" alt="user7210unix" /></p>
-
-
-
-
-<div align="center">
-
-
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=user7210unix" alt="user7210unix" /></a> </p>
+ [ DOTFILES COLLECTION](https://github.com/user7210unix/dotfiles)
