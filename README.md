@@ -6,7 +6,7 @@
     <a href="https://learnixos.github.io/">
       <strong>LearnixOS</strong>
       <img src="https://raw.githubusercontent.com/LearnixOS/learnixos.github.io/main/assets/images/logo.png" width="24" height="24" style="vertical-align:middle;">
-    </a> | Building open-source tools for a better future 🚀
+    </a> | Building open-source tools 🚀
   </p>
 
   <p>
