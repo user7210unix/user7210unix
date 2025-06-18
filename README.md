@@ -42,7 +42,7 @@ Lead developer of LearnixOS, an open-source operating system designed for learni
 
 - 🌐 Website: [learnixos.github.io](https://learnixos.github.io/)
 - ⭐ Stars: ![GitHub stars](https://img.shields.io/github/stars/LearnixOS/learnixos.github.io?style=flat-square)
-- 🛠️ Tech: C, Assembly, Bash
+- 🛠️ Tech: C, C++, Python, Bash
 
 ### [Dotfiles Collection](https://github.com/user7210unix/dotfiles)
 My personal collection of configuration files for a streamlined and efficient development environment.
