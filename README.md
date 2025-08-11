@@ -1,13 +1,7 @@
 <div align="center">
   <img src="pfp.png" width="200" height="200" style="border-radius:50%; border: 4px solid #333;">
-  <h1>👋 Hey, I'm user7210unix!</h1>
   <p>
-    <strong>Lead Developer</strong> of 
-    <a href="https://learnixos.github.io/">
-      <strong>LearnixOS</strong>
-      <img src="https://raw.githubusercontent.com/LearnixOS/learnixos.github.io/main/assets/images/logo.png" width="24" height="24" style="vertical-align:middle;">
-    </a> | Building open-source tools 🚀
-  </p>
+    
 
   <p>
     <a href="https://github.com/user7210unix">
@@ -24,32 +18,15 @@
 
 ---
 
-## 🌟 About Me
-
-- 🔭 **Currently crafting**: [LearnixOS](https://learnixos.github.io/) – an innovative OS project aimed at empowering developers and learners.
-- 🛠️ **Skills**: C, Python, Bash, Linux, Systems Programming, Open Source Development.
-- 📚 **Learning**: Advanced kernel development, distributed systems, and modern DevOps practices.
-- 💡 **Passion**: Creating tools that simplify workflows and inspire the open-source community.
-- 📫 **Reach me**: [Twitter/X](https://x.com/yourhandle) | [Email](mailto:your.email@example.com)
-- ⚡ **Fun fact**: My dotfiles are my digital home – meticulously curated for peak productivity!
-
----
-
 ## 🚀 Featured Projects
 
 ### [LearnixOS](https://learnixos.github.io/)
 Lead developer of LearnixOS, an open-source operating system designed for learning and experimentation. Built with performance and simplicity in mind.
 
-- 🌐 Website: [learnixos.github.io](https://learnixos.github.io/)
-- ⭐ Stars: ![GitHub stars](https://img.shields.io/github/stars/LearnixOS/learnixos.github.io?style=flat-square)
-- 🛠️ Tech: C, C++, Python, Bash
 
 ### [Dotfiles Collection](https://github.com/user7210unix/dotfiles)
 My personal collection of configuration files for a streamlined and efficient development environment.
 
-- 📂 Explore: [github.com/user7210unix/dotfiles](https://github.com/user7210unix/dotfiles)
-- ⭐ Stars: ![GitHub stars](https://img.shields.io/github/stars/user7210unix/dotfiles?style=flat-square)
-- 🛠️ Tools: Vim, Zsh, Tmux, and more
 
 ---
 
