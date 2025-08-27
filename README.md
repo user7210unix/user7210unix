@@ -28,6 +28,9 @@ Lead developer of LearnixOS, an open-source operating system designed for learni
 My personal collection of configuration files for a streamlined and efficient development environment.
 
 
+### [Tinypkg](https://github.com/user7210unix/tinypkg)
+TinyPkg — A Work-in-Progress Linux Source-Based Package Manager.
+
 ---
 
 ## 📊 GitHub Stats
