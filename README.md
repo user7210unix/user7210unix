@@ -10,7 +10,7 @@
     <a href="https://learnixos.github.io/">
       <img src="https://img.shields.io/badge/LearnixOS-Open%20Source-blueviolet?style=flat-square" alt="LearnixOS">
     </a>
-    <a href="https://github.com/user7210unix/dotfiles">
+    <a href="https://user7210unix.github.io/dotfiles/">
       <img src="https://img.shields.io/badge/Dotfiles-Config%20Nirvana-2ea44f?style=flat-square" alt="Dotfiles">
     </a>
   </p>
@@ -24,12 +24,9 @@
 Lead developer of LearnixOS, an open-source operating system designed for learning and experimentation. Built with performance and simplicity in mind.
 
 
-### [Dotfiles Collection](https://github.com/user7210unix/dotfiles)
+### [Dotfiles Collection](https://user7210unix.github.io/dotfiles/)
 My personal collection of configuration files for a streamlined and efficient development environment.
 
-
-### [Tinypkg](https://github.com/user7210unix/tinypkg)
-TinyPkg — A Work-in-Progress Linux Source-Based Package Manager.
 
 ---
 
