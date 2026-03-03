@@ -3,10 +3,18 @@
   <p>
   
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### [Wallpapers](https://user7210unix.github.io/papes/)
 Wallpaper Repository Website
 
 ### [Dotfiles Collection](https://user7210unix.github.io/dotfiles/)
 My personal collection of configuration files
+
+### Pinned Repositories
+[Traffic Monitor](https://github.com/zhongyang219/TrafficMonitor)
+
+[Wzhcin Configuration](https://github.com/wzhchin/config)
+
+[Openbox Configuration](https://github.com/Tail-R/dots) [Second Repo](https://github.com/reorr/my-theme-collection)
+
