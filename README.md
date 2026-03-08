@@ -20,4 +20,4 @@ My personal collection of configuration files
 
 [gitlab](https://gitlab.com/Oglo12)
 
-[hyprland-end-4}(https://github.com/end-4/dots-hyprland)
+[hyprland-end-4](https://github.com/end-4/dots-hyprland)
