@@ -19,3 +19,5 @@ My personal collection of configuration files
 [Openbox Configuration](https://github.com/Tail-R/dots) [Second Repo](https://github.com/reorr/my-theme-collection)
 
 [gitlab](https://gitlab.com/Oglo12)
+
+[hyprland-end-4}(https://github.com/end-4/dots-hyprland)
