@@ -8,6 +8,9 @@
 ### [Wallpapers](https://user7210unix.github.io/papes/)
 Wallpaper Repository Website
 
+### [Board Reader](https://github.com/user7210unix/Board-Reader/)
+Newspaper like Board Reader for /pol/
+
 ### [Dotfiles Collection](https://user7210unix.github.io/dotfiles/)
 My personal collection of configuration files
 
