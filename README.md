@@ -52,7 +52,7 @@ These aren't mine but they're in my setup or have influenced it:
 
 | Repo | What it is |
 |---|---|
-| [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) | Network speed / CPU / RAM overlay for Windows taskbar |
+| [DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) | Desktop shell for wayland compositors built with Quickshell & GO |
 | [dots-hyprland](https://github.com/end-4/dots-hyprland) | End-4's Hyprland config — one of the best out there |
 | [Tail-R/dots](https://github.com/Tail-R/dots) | Clean Openbox configuration |
 | [reorr/my-theme-collection](https://github.com/reorr/my-theme-collection) | GTK and icon theme collection |
