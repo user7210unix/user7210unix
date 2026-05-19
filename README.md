@@ -58,7 +58,7 @@ These aren't mine but they're in my setup or have influenced it:
 | [reorr/my-theme-collection](https://github.com/reorr/my-theme-collection) | GTK and icon theme collection |
 | [wzhchin/config](https://github.com/wzhchin/config) | Wzhcin's configuration files |
 | [Cozytile/config](https://github.com/Darkkal44/Cozytile) | Cozytile files |
-| [winhance](https://winhance.net/) | winhance |
+| [quartz-rice](https://gitlab.com/Oglo12/quartz-rice) | Oglo12's dotfiles |
 ---
 
 <div align="center">
