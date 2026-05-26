@@ -59,6 +59,8 @@ These aren't mine but they're in my setup or have influenced it:
 | [wzhchin/config](https://github.com/wzhchin/config) | Wzhcin's configuration files |
 | [Cozytile/config](https://github.com/Darkkal44/Cozytile) | Cozytile files |
 | [quartz-rice](https://gitlab.com/Oglo12/quartz-rice) | Oglo12's dotfiles |
+| [meloworld-Mangowm](https://github.com/melatonia/meloworld-dotfiles) | meloworld dotfiles |
+
 ---
 
 <div align="center">
