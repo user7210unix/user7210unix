@@ -15,7 +15,7 @@
 | **iChan** | Single-file 4chan reader with an iOS-inspired UI. iMessage bubbles, lazy images, filters, dark mode. | [Live](https://user7210unix.github.io/ichan/) |
 | **Wallpapers** | Curated wallpaper repository with a browsable web frontend. | [Site](https://user7210unix.github.io/papes/) |
 | **ChanChan** | lightweight 4chan reader. | [Site](https://user7210unix.github.io/chanchan/) |
-| **Board Reader** | Newspaper-layout reader for /pol/ — focused reading experience. | [Site](https://user7210unix.github.io/Board-Reader/) |
+| **Suckless** | A minimal X11-based Unix workstation built around the suckless philosophy: | [Repo](https://github.com/user7210unix/suckless) |
 | **Dotfiles** | My personal config collection — WM, shell, editors, and more. | [Site](https://user7210unix.github.io/dotfiles/) |
 | **Emacs** | My personal Emacs config. | [Site](https://github.com/user7210unix/emacs) |
 
