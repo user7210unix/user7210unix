@@ -61,6 +61,7 @@ These aren't mine but they're in my setup or have influenced it:
 | [quartz-rice](https://gitlab.com/Oglo12/quartz-rice) | Oglo12's dotfiles |
 | [meloworld-Mangowm](https://github.com/melatonia/meloworld-dotfiles) | meloworld dotfiles |
 | [Great Font](https://github.com/ahatem/IoskeleyMono) | IoskeleyMono |
+| [base16-emacs](https://github.com/tinted-theming/base16-emacs) | base16-emacs |
 
 ---
 
