@@ -12,7 +12,7 @@
 
 | Project | Description | Link |
 |---|---|---|
-| **iChan** | Single-file 4chan reader with an iOS-inspired UI. iMessage bubbles, lazy images, filters, dark mode. | [Live](https://user7210unix.github.io/ichan/) |
+| **Ice2K/XP.sys** | A small desktop environment for GNU/Linux that looks like Windows 2000/XP. | [Site](https://github.com/comdlg32/ice2k) |
 | **Wallpapers** | Curated wallpaper repository with a browsable web frontend. | [Site](https://user7210unix.github.io/papes/) |
 | **ChanChan** | lightweight 4chan reader. | [Site](https://user7210unix.github.io/chanchan/) |
 | **Suckless** | A minimal X11-based Unix workstation built around the suckless philosophy: | [Repo](https://github.com/user7210unix/suckless) |
