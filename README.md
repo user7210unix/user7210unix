@@ -18,7 +18,7 @@ Linux tinkerer. I build things for the terminal and the browser.
 | Project | Description | Link |
 |---|---|---|
 | **iChan** | A minimal, chat-style reader for 4chan. | [Site](https://user7210unix.github.io/ichan/) |
-| **ChanChan** | Lightweight 4chan reader. | [Site](https://user7210unix.github.io/chanchan/) |
+| **i3** | i3 configuration. | [Repo](https://github.com/user7210unix/dotfiles/tree/i3-blue) |
 | **Wallpapers** | Curated wallpaper collection with a browsable web frontend. | [Site](https://user7210unix.github.io/papes/) |
 | **Suckless** | A minimal X11 Unix workstation built around the suckless philosophy. | [Repo](https://github.com/user7210unix/suckless) |
 | **Dotfiles** | Personal config collection — WM, shell, editors, and more. | [Site](https://user7210unix.github.io/dotfiles/) |
