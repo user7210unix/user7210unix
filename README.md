@@ -50,7 +50,7 @@ Not mine, but in my setup or shaped how I configure things.
 | [Tail-R/dots](https://github.com/Tail-R/dots) | Clean Openbox configuration |
 | [reorr/my-theme-collection](https://github.com/reorr/my-theme-collection) | GTK and icon theme collection |
 | [wzhchin/config](https://github.com/wzhchin/config) | wzhchin's configuration files |
-| [Cozytile](https://github.com/Darkkal44/Cozytile) | Cozytile config files |
+| [nekonako](https://github.com/nekonako/dotfiles) |  nekonako dotfiles |
 | [quartz-rice](https://gitlab.com/Oglo12/quartz-rice) | Oglo12's dotfiles |
 | [TWM/etc configs](https://www.cpcnw.co.uk/twm2/themes/rackservers/) | rackservers configuration |
 | [IoskeleyMono](https://github.com/ahatem/IoskeleyMono) | A font worth having |
