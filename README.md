@@ -8,7 +8,6 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-user7210unix-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/user7210unix)
 [![Linux](https://img.shields.io/badge/Linux-282c34?style=flat-square&logo=linux&logoColor=white)](https://github.com/user7210unix/dotfiles)
-[![Profile Views](https://komarev.com/ghpvc/?username=user7210unix&color=282c34&style=flat-square&label=views)](https://github.com/user7210unix)
 
 </div>
 
