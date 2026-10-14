@@ -57,11 +57,3 @@ Curated collection.
 | [**TWM configs**](https://www.cpcnw.co.uk/twm2/themes/rackservers/) | rackservers configuration |
 | [**IoskeleyMono**](https://github.com/ahatem/IoskeleyMono) | A font worth having |
 | [**base16-emacs**](https://github.com/tinted-theming/base16-emacs) | base16 themes for Emacs |
-
-<br>
-
-<div align="center">
-
-<sub>made with too many dotfiles</sub>
-
-</div>
