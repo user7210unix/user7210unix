@@ -1,66 +1,67 @@
 <div align="center">
 
-<img src="pfp.png" width="140" height="140" style="border-radius:50%;">
+<img src="pfp.png" width="140" height="140" alt="user7210unix">
 
 # user7210unix
 
-Linux tinkerer. I build things for the terminal and the browser.
+<br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-user7210unix-181717?style=flat-square&logo=github)](https://github.com/user7210unix)
+[![GitHub](https://img.shields.io/badge/GitHub-user7210unix-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/user7210unix)
+[![Linux](https://img.shields.io/badge/Linux-282c34?style=flat-square&logo=linux&logoColor=white)](https://github.com/user7210unix/dotfiles)
 [![Profile Views](https://komarev.com/ghpvc/?username=user7210unix&color=282c34&style=flat-square&label=views)](https://github.com/user7210unix)
 
 </div>
 
 <br>
 
-## Featured Projects
+## My Projects
 
-| Project | Description | Link |
-|---|---|---|
-| **iChan** | A minimal, chat-style reader for 4chan. | [Site](https://user7210unix.github.io/ichan/) |
-| **i3** | i3 configuration. | [Repo](https://github.com/user7210unix/dotfiles/tree/i3-blue) |
-| **Wallpapers** | Curated wallpaper collection with a browsable web frontend. | [Site](https://user7210unix.github.io/papes/) |
-| **Suckless** | A minimal X11 Unix workstation built around the suckless philosophy. | [Repo](https://github.com/user7210unix/suckless) |
-| **Dotfiles** | Personal config collection — WM, shell, editors, and more. | [Site](https://user7210unix.github.io/dotfiles/) |
-| **Emacs Config** | Personal Emacs configuration. | [Repo](https://github.com/user7210unix/emacs) |
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### [4GAL](https://github.com/user7210unix/4gal)
+A minimal gallery viewer for 4chan.
+
+</td>
+<td width="33%" valign="top">
+
+### [Linux Dotfiles](https://github.com/user7210unix/dotfiles)
+My Dotfiles.
+
+</td>
+<td width="33%" valign="top">
+
+### [Wallpapers](https://user7210unix.github.io/papes/)
+Curated collection.
+
+</td>
+</tr>
+</table>
 
 <br>
-
-## Environment
-
-| | |
-|---|---|
-| **OS** | Linux |
-| **Shell** | Zsh |
-| **Editor** | Emacs |
-| **Terminal** | Alacritty |
-
-<br>
-
-
 
 ## Repos Worth Looking At
 
-Not mine, but in my setup or shaped how I configure things.
+> Not mine, but in my setup or shaped how I configure things.
 
-| Repo |  |
+| Repo | Why |
 |---|---|
-| [DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) | Desktop shell for Wayland compositors, built with Quickshell and Go |
-| [dots-hyprland](https://github.com/end-4/dots-hyprland) | end-4's Hyprland config — one of the best out there |
-| [Tail-R/dots](https://github.com/Tail-R/dots) | Clean Openbox configuration |
-| [reorr/my-theme-collection](https://github.com/reorr/my-theme-collection) | GTK and icon theme collection |
-| [wzhchin/config](https://github.com/wzhchin/config) | wzhchin's configuration files |
-| [nekonako](https://github.com/nekonako/dotfiles) |  nekonako dotfiles |
-| [quartz-rice](https://gitlab.com/Oglo12/quartz-rice) | Oglo12's dotfiles |
-| [TWM/etc configs](https://www.cpcnw.co.uk/twm2/themes/rackservers/) | rackservers configuration |
-| [IoskeleyMono](https://github.com/ahatem/IoskeleyMono) | A font worth having |
-| [base16-emacs](https://github.com/tinted-theming/base16-emacs) | base16-emacs |
+| [**DankMaterialShell**](https://github.com/AvengeMedia/DankMaterialShell) | Desktop shell for Wayland compositors, built with Quickshell and Go |
+| [**dots-hyprland**](https://github.com/end-4/dots-hyprland) | end-4's Hyprland config, one of the best out there |
+| [**Tail-R/dots**](https://github.com/Tail-R/dots) | Clean Openbox configuration |
+| [**my-theme-collection**](https://github.com/reorr/my-theme-collection) | GTK and icon theme collection |
+| [**wzhchin/config**](https://github.com/wzhchin/config) | wzhchin's configuration files |
+| [**nekonako/dotfiles**](https://github.com/nekonako/dotfiles) | nekonako's dotfiles |
+| [**quartz-rice**](https://gitlab.com/Oglo12/quartz-rice) | Oglo12's dotfiles |
+| [**TWM configs**](https://www.cpcnw.co.uk/twm2/themes/rackservers/) | rackservers configuration |
+| [**IoskeleyMono**](https://github.com/ahatem/IoskeleyMono) | A font worth having |
+| [**base16-emacs**](https://github.com/tinted-theming/base16-emacs) | base16 themes for Emacs |
 
 <br>
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-user7210unix-181717?style=flat-square&logo=github)](https://github.com/user7210unix)
-[![GitLab](https://img.shields.io/badge/GitLab-Oglo12-FC6D26?style=flat-square&logo=gitlab)](https://gitlab.com/Oglo12)
+<sub>made with too many dotfiles</sub>
 
 </div>
